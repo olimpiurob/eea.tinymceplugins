@@ -27,6 +27,7 @@ Install
   You can download a sample buildout from
   https://github.com/eea/eea.tinymceplugins/tree/master/buildouts/plone4
 - Install eea.tinymceplugins within Site Setup > Add-ons
+TEST
 
 Getting started
 ===============
