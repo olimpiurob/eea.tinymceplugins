@@ -36,6 +36,7 @@ Getting started
 2. Testing push
 3. Tag release testing githooks
 4. Use the push event
+5. New test
 
 Dependencies
 ============
