@@ -34,7 +34,7 @@ Getting started
 
 1. Webhooks test 1
 2. Testing push
-3.
+3. Tag release testing githooks
 
 Dependencies
 ============
