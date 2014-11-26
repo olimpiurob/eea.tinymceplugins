@@ -33,7 +33,7 @@ Getting started
 ===============
 
 1. Webhooks test 1
-2.
+2. Testing push
 3.
 
 Dependencies
